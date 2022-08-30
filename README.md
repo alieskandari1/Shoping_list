@@ -1,4 +1,4 @@
-## hello word
+## hello world
 this is a shopping list project that have two main roles
 shopkeeper and customer
 ### shopkeeper Capabilities:
